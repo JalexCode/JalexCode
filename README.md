@@ -1,9 +1,51 @@
-- 👋 Hi, I’m @JalexCode. I'm an autodidactic programmer and a pythonist.
-- 👀 I’m interested in Android development and FreeSoftware colaborations.
-- 🌱 I’m currently learning Android, C++ & web development.
-- 📫 Send me an email to javierglez9910@gmail.com or javierglez99@nauta.cu, or text me on Telegram. My username is @jalexcode.
+# <div align="center">Hello dude!👋 I'm </div><div align="center"><img src="https://github.com/JalexCode/JalexCode/blob/main/jalex.png?raw=true" alt="JalexCode logo" style="height: 4rem"/></div>
 
-<!---
-JalexCode/JalexCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Software Engineer** and **Front-End Developer** passionate about creating innovative, useful and aesthetic applications. I enjoy learning new technologies and turning my ideas into products.
+
+- 👨‍🏫 Currently, I work as a **professor in the Computer Science Department** at [Univerisity of Camaguey](https://www.reduc.edu.cu).
+
+- 📧 You can contact me via email: **javierglez9910@gmail.com**
+
+## Social Links
+
+<p align="center">
+  <a href="https://www.instagram.com/jalexoasismusic/">
+    <img src="https://img.shields.io/badge/-Instagram-DC143C?logo=instagram&logoColor=white&style=flat" alt="JalexCode's Instagram" style="height: 2rem"/>
+  </a>
+  <a href="https://t.me/jalexcode">
+    <img src="https://img.shields.io/badge/-Telegram-4682B4?logo=telegram&logoColor=white&style=flat" alt="JalexCode's Telegram" style="height: 2rem"/>
+  </a>
+    <a href="https://www.linkedin.com/in/javier-alejandro-gonz%C3%A1lez-casellas-050882181/">
+    <img src="https://img.shields.io/badge/-LinkedIn-191970?logo=linkedin&logoColor=white&style=flat" alt="JalexCode's LinkedIn" style="height: 2rem"/>
+<!--   </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/-blue?label=My%20Website&logo=mail&style=social" alt="Personal website" style="height: 2rem"/>
+  </a> -->
+</p>
+
+## Statistics
+
+<picture style="display: flex; felx-direction: row; justify-content: center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JalexCode&layout=pie" alt="JalexCode"/>
+</picture>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JalexCode&show_icons=true" alt="JalexCode" />
+</p>
+
+<p>
+  &nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=JalexCode" alt="JalexCode" />
+</p>
+
+<br><br><br><br><br><br><br><br>
+## Technologies and Tools
+
+- **Languages**: Python, Java, JavaScript, TypeScript, Kotlin
+- **Frontend**: React
+- **Backend**: Django
+- **Databases**: SQLite, PostgreSQL
+- **Mobile**: Android (Java, Kotlin)
+
+Feel free to explore my repos! I hope you find something you might find interesting.
+
+Don't have a good day, have a great day!🙌
