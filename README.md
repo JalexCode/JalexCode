@@ -9,6 +9,9 @@ I'm a **Software Engineer** and **Front-End Developer** passionate about creatin
 ## Social Links
 
 <p align="center">
+  <a href="https://jalexcode.github.io/">
+    <img src="https://img.shields.io/badge/Website-indigo?style=flat&logo=github" alt="JalexCode's Portfolio Website" style="height: 2rem"/>
+  </a>
   <a href="https://www.instagram.com/jalexoasismusic/">
     <img src="https://img.shields.io/badge/-Instagram-DC143C?logo=instagram&logoColor=white&style=flat" alt="JalexCode's Instagram" style="height: 2rem"/>
   </a>
