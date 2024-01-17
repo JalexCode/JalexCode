@@ -41,13 +41,6 @@ I'm a **Software Engineer** and **Front-End Developer** passionate about creatin
 </p>
 
 <br><br><br><br><br><br><br><br>
-## Technologies and Tools
-
-- **Languages**: Python, Java, JavaScript, TypeScript, Kotlin
-- **Frontend**: React
-- **Backend**: Django
-- **Databases**: SQLite, PostgreSQL
-- **Mobile**: Android (Java, Kotlin)
 
 Feel free to explore my repos! I hope you find something you might find interesting.
 
