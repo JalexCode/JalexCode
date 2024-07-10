@@ -2,8 +2,8 @@
 
 I'm a **Software Engineer** and **Front-End Developer** passionate about creating innovative, useful and aesthetic applications. I enjoy learning new technologies and turning my ideas into products.
 
-- 👨‍🏫 Currently, I work as a **professor in the Computer Science Department** at [Univerisity of Camaguey](https://www.reduc.edu.cu).
-
+- 👨‍💻 Currently, I work as a freelancer developer
+- 👨‍🏫 My alternative job is to be a **professor in the Computer Science Department** at [Univerisity of Camaguey](https://www.reduc.edu.cu).
 - 📧 You can contact me via email: **javierglez9910@gmail.com**
 
 ## Social Links
@@ -12,7 +12,7 @@ I'm a **Software Engineer** and **Front-End Developer** passionate about creatin
   <a href="https://jalexcode.github.io/">
     <img src="https://img.shields.io/badge/Website-indigo?style=flat&logo=github" alt="JalexCode's Portfolio Website" style="height: 2rem"/>
   </a>
-  <a href="https://www.instagram.com/jalexoasismusic/">
+  <a href="https://www.instagram.com/its_el_javy/">
     <img src="https://img.shields.io/badge/-Instagram-DC143C?logo=instagram&logoColor=white&style=flat" alt="JalexCode's Instagram" style="height: 2rem"/>
   </a>
   <a href="https://t.me/jalexcode">
