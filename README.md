@@ -2,9 +2,10 @@
 
 I'm a **Software Engineer** and **Front-End Developer** passionate about creating innovative, useful and aesthetic applications. I enjoy learning new technologies and turning my ideas into products.
 
-- 👨‍💻 Currently, I work as a freelancer developer
+- 👨‍💻 Currently, I work as a Fullstack developer at LADETEC
 - 👨‍🏫 My alternative job is to be a **professor in the Computer Science Department** at [Univerisity of Camaguey](https://www.reduc.edu.cu).
-- 📧 You can contact me via email: **javierglez9910@gmail.com**
+
+📧 You can contact me through the following links👇🏻
 
 ## Social Links
 
